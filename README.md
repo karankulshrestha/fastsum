@@ -1,5 +1,5 @@
 
-# Navis
+# FastSum
 
 This project uses Machine learning and Deep learning model developed by OpenAI to generate
 short summary of any youtube video in any language and trending news on any topic you want to read about.
