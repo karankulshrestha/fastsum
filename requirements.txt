@@ -1,0 +1,6 @@
+whisper==1.0
+streamlit==1.13.0
+streamlit-lottie==0.0.3
+requests==2.28.1
+pytube==12.1.0
+openai==0.23.1
